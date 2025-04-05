@@ -21,8 +21,7 @@ A RESTful API for tracking job applications built with Node.js, Express, and Mon
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd jobs-tracker-api
+git clone https://github.com/gapdapper/jobs-tracker-api.git
 ```
 
 2. Install dependencies:
